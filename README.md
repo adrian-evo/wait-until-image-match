@@ -55,7 +55,7 @@ where `nokia-logo` is the name of the reference image and `div[style*='nokia.png
 ## Example output
 
 Executed example will result in:
-1. [first-run-log](https://marketsquare.github.io/robotframework-browser-extensions/wait-until-image-match/demo-log/first-run-log.png)
-2. [second-run-log](https://marketsquare.github.io/robotframework-browser-extensions/wait-until-image-match/demo-log/second-run-log.png)
-3. [details-log](https://marketsquare.github.io/robotframework-browser-extensions/wait-until-image-match/demo-log/details-log.png)
+1. [first-run-log](/demo-log/first-run-log.png)
+2. [second-run-log](/demo-log/second-run-log.png)
+3. [details-log](/demo-log/details-log.png)
 
